@@ -1,2 +1,2 @@
-Preprocessing script placeholder
+# Preprocessing script
 print('Preprocessing completed')
